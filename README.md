@@ -1,2 +1,2 @@
-# prepcurso
+# prepcurse
 contexto modulo dos
